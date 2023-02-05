@@ -1,0 +1,136 @@
+a{
+    color: #11999E;
+    font-family: 'Montserrat',sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: white;
+}
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color: #40514E;
+    line-height: 2em;
+}
+
+hr{
+    width: 4%;
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    margin: 100px auto;
+}
+
+h1{
+    font-size: 90px;
+    margin: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    color: #66BFBF;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+/*************************************CLASS TAG*************************************/
+
+.bottom-cloud{
+    position: absolute;
+    bottom: 300px;
+    left: 300px;
+}
+
+.bottom-container{
+    padding: 50px 0 20px;
+    background-color: #66BFBF;
+    text-align: center;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #119998);
+    background-image: -moz-linear-gradient(top, #11cdd4, #119998);
+    background-image: -ms-linear-gradient(top, #11cdd4, #119998);
+    background-image: -o-linear-gradient(top, #11cdd4, #119998);
+    background-image: linear-gradient(to bottom, #11cdd4, #119998);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Montserrat';
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30ec3b;
+    background-image: -webkit-linear-gradient(top, #30ec3b, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30ec3b, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30ec3b, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30ec3b, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30ec3b, #2bc4ad);
+    text-decoration: none;
+  }
+
+.cloud-img{
+    float: right;
+}
+
+.contact-me{
+    margin: 100px;
+}
+
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.copyright{
+    color: white;
+    padding: 10px;
+}
+
+.ds-img{
+    float: left;
+    margin-right: 30px;
+}
+
+.footer-link{
+    width: 10px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 60px auto 60px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.top-container{
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-cloud{
+    position: absolute; 
+    top: 50px;
+    right: 300px;
+}
+
+.web-img{
+    float: left;
+    padding: 40px;
+}
